@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/adamina</item>
+        <item>@font/amarante</item>
+        <item>@font/audiowide</item>
+        <item>@font/autour_one</item>
+        <item>@font/bangers</item>
+        <item>@font/eater</item>
+    </array>
+</resources>
